@@ -1,0 +1,6 @@
+# Gemfile for GuessingGame
+source "https://rubygems.org"
+
+# some example gems:
+# gem "rails"
+# gem "sinatra"

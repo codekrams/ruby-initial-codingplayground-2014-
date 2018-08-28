@@ -1,0 +1,6 @@
+# Gemfile for Pusheen
+source "https://rubygems.org"
+
+# some example gems:
+# gem "rails"
+# gem "sinatra"

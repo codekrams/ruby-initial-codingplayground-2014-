@@ -1,0 +1,80 @@
+---
+:vertebrates:
+  :mammals:
+    :cats:
+    - Muffin
+    - Snowball
+    - Ziggy
+    - Madison
+    - Casey
+    :dogs:
+    - Roscoe
+    - Lucy
+    - Samson
+    - Chloe
+    - Gizmo
+    :goats:
+    - Agnes
+    - Doe
+    - Febu
+    - Duncan
+    - Gary
+  :birds:
+    :parrots:
+    - Kiwi
+    - Merlin
+    - Gabby
+    - Charlie
+    - Coco
+    :owls:
+    - Agatha
+    - Cliff
+    - Chatcoal
+    - Elvis
+    - Toby
+  :fish:
+  - Tom
+  - Virgo
+  - Sakana
+  - Queenie
+  - Nakago
+  - Ling
+  - Molly
+  :reptiles:
+    :turtles:
+    - Sandy
+    - Ryan
+    - Leonardo
+    - Reno
+    - Squirt
+    - Susan
+    - Percy
+    :snakes:
+    - Belle
+    - Eve
+    - Fluffy
+    - Gorderan
+    - Mitch
+    - Nuba
+    - Sybil
+:invertebrates:
+  :snails:
+  - Amberley
+  - Ahmar
+  - Garlen
+  - Eloy
+  :insects:
+    :bugs:
+    - Cadman
+    - Ponce
+    - Heanford
+    :butterflies:
+    - Donnie
+    - Lance
+    - Kathy
+    - Maxine
+  :spiders:
+  - Robbie
+  - Wayland
+  - Anice
+  - Jared
